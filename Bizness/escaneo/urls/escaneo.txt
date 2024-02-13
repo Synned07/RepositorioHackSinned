@@ -1,0 +1,20 @@
+[2Klogin                   [Status: 200, Size: 3704, Words: 1365, Lines: 81, Duration: 309ms][0m
+[2Kregister                [Status: 200, Size: 4527, Words: 1512, Lines: 95, Duration: 227ms][0m
+[2K#                       [Status: 200, Size: 64952, Words: 28274, Lines: 1243, Duration: 324ms][0m
+[2K# Priority-ordered case-insensitive list, where entries were found [Status: 200, Size: 64952, Words: 28274, Lines: 1243, Duration: 323ms][0m
+[2K                        [Status: 200, Size: 64952, Words: 28274, Lines: 1243, Duration: 181ms][0m
+[2K#                       [Status: 200, Size: 64952, Words: 28274, Lines: 1243, Duration: 224ms][0m
+[2K# Attribution-Share Alike 3.0 License. To view a copy of this [Status: 200, Size: 64952, Words: 28274, Lines: 1243, Duration: 160ms][0m
+[2K# on at least 3 different hosts [Status: 200, Size: 64952, Words: 28274, Lines: 1243, Duration: 154ms][0m
+[2K#                       [Status: 200, Size: 64952, Words: 28274, Lines: 1243, Duration: 268ms][0m
+[2K# Copyright 2007 James Fisher [Status: 200, Size: 64952, Words: 28274, Lines: 1243, Duration: 279ms][0m
+[2K# This work is licensed under the Creative Commons [Status: 200, Size: 64952, Words: 28274, Lines: 1243, Duration: 329ms][0m
+[2K# license, visit http://creativecommons.org/licenses/by-sa/3.0/ [Status: 200, Size: 64952, Words: 28274, Lines: 1243, Duration: 183ms][0m
+[2K#                       [Status: 200, Size: 64952, Words: 28274, Lines: 1243, Duration: 185ms][0m
+[2K# directory-list-lowercase-2.3-small.txt [Status: 200, Size: 64952, Words: 28274, Lines: 1243, Duration: 230ms][0m
+[2K# Suite 300, San Francisco, California, 94105, USA. [Status: 200, Size: 64952, Words: 28274, Lines: 1243, Duration: 479ms][0m
+[2K# or send a letter to Creative Commons, 171 Second Street, [Status: 200, Size: 64952, Words: 28274, Lines: 1243, Duration: 192ms][0m
+[2K404                     [Status: 200, Size: 1674, Words: 118, Lines: 46, Duration: 153ms][0m
+[2K0404                    [Status: 200, Size: 1674, Words: 118, Lines: 46, Duration: 109ms][0m
+[2Kinvite                  [Status: 200, Size: 3859, Words: 1363, Lines: 97, Duration: 183ms][0m
+[2K                        [Status: 200, Size: 64952, Words: 28274, Lines: 1243, Duration: 191ms][0m

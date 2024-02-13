@@ -1,0 +1,25 @@
+
+[*] #comandos vulnerables
+# $('.header-title').tooltip(Option)[0].h3.textContent = "contenido nuevo";
+# $('.header-title').tooltip()[0].innerHTML = `<h1>Bienvenido</h1>`;
+
+
+[#] Este codigo nos permite comprobar por el valor de cada atributo
+
+$(document).ready(function(){
+  $('[data-toggle="tooltip"]').tooltip(); #tooltip() | collapse() | scrollspy()
+});
+
+[*] data-target -> vulnerable atributo
+
+
+$('.js-affixed-element-top').affix({ 
+  offset: { 
+    top: $('.js-page-header').outerHeight(true) - 10 , bottom: $('.js-footer').outerHeight(true) + 10 }, 
+    target: '<img src=x onerror=alert(0)>'
+})
+
+# -----------------------------------------------------------------------------------------------------
+
+$('[data-target="#bs-example-navbar-collapse-1"]').affix({ target: '<img src=x onerror=alert(1)>' });
+

@@ -1,0 +1,1312 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-02-10 12:19 EST
+Stats: 0:00:03 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.29% done; ETC: 12:21 (0:02:08 remaining)
+Stats: 0:00:06 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.86% done; ETC: 12:22 (0:03:24 remaining)
+Stats: 0:00:09 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 4.08% done; ETC: 12:23 (0:03:32 remaining)
+Stats: 0:00:12 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.28% done; ETC: 12:22 (0:02:59 remaining)
+Stats: 0:00:15 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.75% done; ETC: 12:22 (0:02:36 remaining)
+Stats: 0:00:18 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.47% done; ETC: 12:22 (0:02:34 remaining)
+Stats: 0:00:21 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.64% done; ETC: 12:22 (0:02:56 remaining)
+Stats: 0:00:24 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 10.95% done; ETC: 12:23 (0:03:15 remaining)
+Stats: 0:00:27 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 11.77% done; ETC: 12:23 (0:03:22 remaining)
+Stats: 0:00:30 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 12.36% done; ETC: 12:23 (0:03:33 remaining)
+Stats: 0:00:33 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 13.30% done; ETC: 12:23 (0:03:35 remaining)
+Stats: 0:00:36 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.32% done; ETC: 12:23 (0:03:35 remaining)
+Stats: 0:00:39 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.45% done; ETC: 12:23 (0:03:51 remaining)
+Stats: 0:00:42 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 14.75% done; ETC: 12:24 (0:04:03 remaining)
+Stats: 0:00:45 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 15.49% done; ETC: 12:24 (0:04:06 remaining)
+Stats: 0:00:48 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.01% done; ETC: 12:24 (0:04:12 remaining)
+Stats: 0:00:51 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.18% done; ETC: 12:24 (0:04:24 remaining)
+Stats: 0:00:54 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.75% done; ETC: 12:24 (0:04:28 remaining)
+Stats: 0:00:57 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.58% done; ETC: 12:24 (0:04:27 remaining)
+Stats: 0:01:00 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 17.74% done; ETC: 12:25 (0:04:38 remaining)
+Stats: 0:01:03 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 18.73% done; ETC: 12:25 (0:04:33 remaining)
+Stats: 0:01:06 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 20.22% done; ETC: 12:24 (0:04:20 remaining)
+Stats: 0:01:09 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.20% done; ETC: 12:24 (0:04:02 remaining)
+Stats: 0:01:12 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.29% done; ETC: 12:24 (0:03:44 remaining)
+Stats: 0:01:15 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 24.54% done; ETC: 12:24 (0:03:51 remaining)
+Stats: 0:01:18 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 25.66% done; ETC: 12:24 (0:03:46 remaining)
+Stats: 0:01:21 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 27.67% done; ETC: 12:24 (0:03:32 remaining)
+Stats: 0:01:24 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 29.93% done; ETC: 12:24 (0:03:17 remaining)
+Stats: 0:01:27 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 32.63% done; ETC: 12:23 (0:03:00 remaining)
+Stats: 0:01:30 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 35.20% done; ETC: 12:23 (0:02:46 remaining)
+Stats: 0:01:33 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 37.32% done; ETC: 12:23 (0:02:36 remaining)
+Stats: 0:01:36 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 38.99% done; ETC: 12:23 (0:02:30 remaining)
+Stats: 0:01:39 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 40.73% done; ETC: 12:23 (0:02:24 remaining)
+Stats: 0:01:42 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 42.97% done; ETC: 12:23 (0:02:15 remaining)
+Stats: 0:01:45 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 45.38% done; ETC: 12:23 (0:02:06 remaining)
+Stats: 0:01:48 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 46.20% done; ETC: 12:23 (0:02:06 remaining)
+Stats: 0:01:51 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 46.82% done; ETC: 12:23 (0:02:06 remaining)
+Stats: 0:01:54 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 48.95% done; ETC: 12:23 (0:01:59 remaining)
+Stats: 0:01:57 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 50.97% done; ETC: 12:23 (0:01:53 remaining)
+Stats: 0:02:00 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 52.76% done; ETC: 12:23 (0:01:47 remaining)
+Stats: 0:02:03 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 55.64% done; ETC: 12:23 (0:01:38 remaining)
+Stats: 0:02:06 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 59.50% done; ETC: 12:22 (0:01:26 remaining)
+Stats: 0:02:09 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 62.55% done; ETC: 12:22 (0:01:17 remaining)
+Stats: 0:02:12 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 65.17% done; ETC: 12:22 (0:01:11 remaining)
+Stats: 0:02:15 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 67.06% done; ETC: 12:22 (0:01:06 remaining)
+Stats: 0:02:18 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 68.43% done; ETC: 12:22 (0:01:04 remaining)
+Stats: 0:02:21 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 70.04% done; ETC: 12:22 (0:01:00 remaining)
+Stats: 0:02:24 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 72.17% done; ETC: 12:22 (0:00:56 remaining)
+Stats: 0:02:27 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 74.08% done; ETC: 12:22 (0:00:51 remaining)
+Stats: 0:02:30 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 76.14% done; ETC: 12:22 (0:00:47 remaining)
+Stats: 0:02:33 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 78.50% done; ETC: 12:22 (0:00:42 remaining)
+Stats: 0:02:36 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 81.73% done; ETC: 12:22 (0:00:35 remaining)
+Stats: 0:02:39 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 85.43% done; ETC: 12:22 (0:00:27 remaining)
+Stats: 0:02:42 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 89.09% done; ETC: 12:22 (0:00:20 remaining)
+Stats: 0:02:45 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 91.00% done; ETC: 12:22 (0:00:16 remaining)
+Stats: 0:02:48 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 93.15% done; ETC: 12:22 (0:00:12 remaining)
+Stats: 0:02:51 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 95.34% done; ETC: 12:22 (0:00:08 remaining)
+Stats: 0:02:54 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 97.64% done; ETC: 12:22 (0:00:04 remaining)
+Stats: 0:02:57 elapsed; 0 hosts completed (24 up), 24 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 99.32% done; ETC: 12:22 (0:00:01 remaining)
+Stats: 0:03:00 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 5.83% done; ETC: 12:22 (0:00:16 remaining)
+Stats: 0:03:05 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 6.80% done; ETC: 12:23 (0:01:22 remaining)
+Stats: 0:03:06 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 12.62% done; ETC: 12:23 (0:00:48 remaining)
+Stats: 0:03:09 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 21.36% done; ETC: 12:23 (0:00:37 remaining)
+Stats: 0:03:12 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 21.36% done; ETC: 12:23 (0:00:48 remaining)
+Stats: 0:03:15 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 36.89% done; ETC: 12:23 (0:00:27 remaining)
+Stats: 0:03:18 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 36.89% done; ETC: 12:23 (0:00:33 remaining)
+Stats: 0:03:21 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 47.57% done; ETC: 12:23 (0:00:24 remaining)
+Stats: 0:03:24 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 50.49% done; ETC: 12:23 (0:00:25 remaining)
+Stats: 0:03:27 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 52.43% done; ETC: 12:23 (0:00:25 remaining)
+Stats: 0:03:30 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 60.19% done; ETC: 12:23 (0:00:21 remaining)
+Stats: 0:03:33 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 64.08% done; ETC: 12:23 (0:00:19 remaining)
+Stats: 0:03:35 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 67.96% done; ETC: 12:23 (0:00:17 remaining)
+Stats: 0:03:36 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 67.96% done; ETC: 12:23 (0:00:17 remaining)
+Stats: 0:03:37 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 67.96% done; ETC: 12:23 (0:00:18 remaining)
+Stats: 0:03:39 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 69.90% done; ETC: 12:23 (0:00:17 remaining)
+Stats: 0:03:42 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 80.58% done; ETC: 12:23 (0:00:10 remaining)
+Stats: 0:03:45 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 81.55% done; ETC: 12:23 (0:00:10 remaining)
+Stats: 0:03:49 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 84.47% done; ETC: 12:23 (0:00:09 remaining)
+Stats: 0:03:51 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 88.35% done; ETC: 12:23 (0:00:07 remaining)
+Stats: 0:03:54 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 90.29% done; ETC: 12:23 (0:00:06 remaining)
+Stats: 0:03:57 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 92.23% done; ETC: 12:23 (0:00:05 remaining)
+Stats: 0:04:01 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 93.20% done; ETC: 12:23 (0:00:05 remaining)
+Stats: 0:04:03 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 94.17% done; ETC: 12:23 (0:00:04 remaining)
+Stats: 0:04:06 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 95.15% done; ETC: 12:23 (0:00:03 remaining)
+Stats: 0:04:09 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 95.15% done; ETC: 12:23 (0:00:04 remaining)
+Stats: 0:04:12 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 95.15% done; ETC: 12:23 (0:00:04 remaining)
+Stats: 0:04:19 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 99.03% done; ETC: 12:23 (0:00:01 remaining)
+Stats: 0:04:24 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 99.03% done; ETC: 12:23 (0:00:01 remaining)
+Stats: 0:04:29 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 99.03% done; ETC: 12:23 (0:00:01 remaining)
+Stats: 0:04:35 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 99.03% done; ETC: 12:24 (0:00:01 remaining)
+Stats: 0:04:40 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 99.03% done; ETC: 12:24 (0:00:01 remaining)
+Stats: 0:04:45 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 99.03% done; ETC: 12:24 (0:00:01 remaining)
+Stats: 0:04:50 elapsed; 0 hosts completed (24 up), 24 undergoing Service Scan
+Service scan Timing: About 100.00% done; ETC: 12:24 (0:00:00 remaining)
+Stats: 0:05:08 elapsed; 0 hosts completed (24 up), 24 undergoing Traceroute
+Traceroute Timing: About 1.34% done; ETC: 12:24 (0:00:00 remaining)
+Stats: 0:05:09 elapsed; 0 hosts completed (24 up), 24 undergoing Traceroute
+Traceroute Timing: About 6.18% done; ETC: 12:24 (0:00:15 remaining)
+Stats: 0:05:12 elapsed; 0 hosts completed (24 up), 24 undergoing Traceroute
+Traceroute Timing: About 38.58% done; ETC: 12:24 (0:00:06 remaining)
+Stats: 0:05:15 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 84.36% done; ETC: 12:24 (0:00:00 remaining)
+Stats: 0:05:18 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 93.06% done; ETC: 12:24 (0:00:00 remaining)
+Stats: 0:05:21 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 94.32% done; ETC: 12:24 (0:00:00 remaining)
+Stats: 0:05:24 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 94.84% done; ETC: 12:24 (0:00:01 remaining)
+Stats: 0:05:27 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 95.20% done; ETC: 12:24 (0:00:01 remaining)
+Stats: 0:05:30 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 95.77% done; ETC: 12:24 (0:00:01 remaining)
+Stats: 0:05:33 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 96.20% done; ETC: 12:24 (0:00:01 remaining)
+Stats: 0:05:36 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 96.61% done; ETC: 12:25 (0:00:01 remaining)
+Stats: 0:05:39 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 96.99% done; ETC: 12:25 (0:00:01 remaining)
+Stats: 0:05:42 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 97.60% done; ETC: 12:25 (0:00:01 remaining)
+Stats: 0:05:45 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 97.98% done; ETC: 12:25 (0:00:01 remaining)
+Stats: 0:05:48 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 98.25% done; ETC: 12:25 (0:00:01 remaining)
+Stats: 0:05:51 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 98.65% done; ETC: 12:25 (0:00:01 remaining)
+Stats: 0:05:54 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 99.06% done; ETC: 12:25 (0:00:00 remaining)
+Stats: 0:05:57 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 99.09% done; ETC: 12:25 (0:00:00 remaining)
+Stats: 0:06:00 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 99.13% done; ETC: 12:25 (0:00:00 remaining)
+Stats: 0:06:03 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 99.14% done; ETC: 12:25 (0:00:00 remaining)
+Stats: 0:06:06 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 99.17% done; ETC: 12:25 (0:00:00 remaining)
+Stats: 0:06:09 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 99.18% done; ETC: 12:25 (0:00:00 remaining)
+Stats: 0:06:12 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 99.18% done; ETC: 12:25 (0:00:00 remaining)
+Stats: 0:06:15 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 99.18% done; ETC: 12:25 (0:00:01 remaining)
+Stats: 0:06:18 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 99.23% done; ETC: 12:25 (0:00:00 remaining)
+Stats: 0:06:21 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 99.78% done; ETC: 12:25 (0:00:00 remaining)
+Stats: 0:06:24 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 89.98% done; ETC: 12:25 (0:00:00 remaining)
+Stats: 0:06:27 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 94.93% done; ETC: 12:25 (0:00:00 remaining)
+Stats: 0:06:30 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 95.29% done; ETC: 12:25 (0:00:00 remaining)
+Stats: 0:06:33 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 97.10% done; ETC: 12:25 (0:00:00 remaining)
+Stats: 0:06:36 elapsed; 0 hosts completed (24 up), 24 undergoing Script Scan
+NSE Timing: About 97.95% done; ETC: 12:26 (0:00:00 remaining)
+Nmap scan report for 10.10.11.221
+Host is up (0.11s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE    SERVICE VERSION
+22/tcp   open     ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.1 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 3e:ea:45:4b:c5:d1:6d:6f:e2:d4:d1:3b:0a:3d:a9:4f (ECDSA)
+|_  256 64:cc:75:de:4a:e6:a5:b4:73:eb:3f:1b:cf:b4:e3:94 (ED25519)
+80/tcp   open     http    nginx
+|_http-title: Did not follow redirect to http://2million.htb/
+9999/tcp filtered abyss
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/10%OT=22%CT=1%CU=38359%PV=Y%DS=2%DC=T%G=Y%TM=65C7
+OS:B1AA%P=x86_64-pc-linux-gnu)SEQ(SP=102%GCD=1%ISR=106%TI=Z%CI=Z%TS=A)SEQ(S
+OS:P=103%GCD=1%ISR=106%TI=Z%CI=Z%TS=A)SEQ(SP=103%GCD=1%ISR=106%TI=Z%CI=Z%II
+OS:=I%TS=A)SEQ(SP=104%GCD=1%ISR=107%TI=Z%CI=Z%TS=4)OPS(O1=M53CST11NW7%O2=M5
+OS:3CST11NW7%O3=M53CNNT11NW7%O4=M53CST11NW7%O5=M53CST11NW7%O6=M53CST11)WIN(
+OS:W1=FE88%W2=FE88%W3=FE88%W4=FE88%W5=FE88%W6=FE88)ECN(R=Y%DF=Y%T=40%W=FAF0
+OS:%O=M53CNNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R
+OS:=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%
+OS:A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%
+OS:DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIP
+OS:L=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 23/tcp)
+HOP RTT       ADDRESS
+1   106.74 ms 10.10.14.1
+2   115.80 ms 10.10.11.221
+
+Nmap scan report for 10.10.11.223
+Host is up (0.11s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE            VERSION
+22/tcp   open  ssh                OpenSSH 7.6p1 Ubuntu 4ubuntu0.7 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 fa:b0:03:98:7e:60:c2:f3:11:82:27:a1:35:77:9f:d3 (RSA)
+|   256 f2:59:06:dc:33:b0:9f:a3:5e:b7:63:ff:61:35:9d:c5 (ECDSA)
+|_  256 e3:ac:ab:ea:2b:d6:8e:f4:1f:b0:7b:05:0a:69:a5:37 (ED25519)
+443/tcp  open  ssl/http           nginx 1.14.0 (Ubuntu)
+|_http-server-header: nginx/1.14.0 (Ubuntu)
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: organizationName=free-hosting/stateOrProvinceName=Berlin/countryName=DE
+| Not valid before: 2023-02-01T20:19:22
+|_Not valid after:  2024-02-01T20:19:22
+5000/tcp open  ssl/http           Docker Registry (API: 2.0)
+|_http-title: Site doesn't have a title.
+| ssl-cert: Subject: commonName=*.webhosting.htb/organizationName=Acme, Inc./stateOrProvinceName=GD/countryName=CN
+| Subject Alternative Name: DNS:webhosting.htb, DNS:webhosting.htb
+| Not valid before: 2023-03-26T21:32:06
+|_Not valid after:  2024-03-25T21:32:06
+5001/tcp open  ssl/commplex-link?
+| tls-alpn: 
+|   h2
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=*.webhosting.htb/organizationName=Acme, Inc./stateOrProvinceName=GD/countryName=CN
+| Subject Alternative Name: DNS:webhosting.htb, DNS:webhosting.htb
+| Not valid before: 2023-03-26T21:32:06
+|_Not valid after:  2024-03-25T21:32:06
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.0 404 Not Found
+|     Content-Type: text/plain; charset=utf-8
+|     X-Content-Type-Options: nosniff
+|     Date: Sat, 10 Feb 2024 17:32:16 GMT
+|     Content-Length: 10
+|     found
+|   GenericLines, Help, Kerberos, LDAPSearchReq, LPDString, RTSPRequest, SSLSessionReq, TLSSessionReq, TerminalServerCookie: 
+|     HTTP/1.1 400 Bad Request
+|     Content-Type: text/plain; charset=utf-8
+|     Connection: close
+|     Request
+|   GetRequest: 
+|     HTTP/1.0 200 OK
+|     Content-Type: text/html; charset=utf-8
+|     Date: Sat, 10 Feb 2024 17:31:44 GMT
+|     Content-Length: 26
+|     <h1>Acme auth server</h1>
+|   HTTPOptions: 
+|     HTTP/1.0 200 OK
+|     Content-Type: text/html; charset=utf-8
+|     Date: Sat, 10 Feb 2024 17:31:46 GMT
+|     Content-Length: 26
+|_    <h1>Acme auth server</h1>
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port5001-TCP:V=7.94SVN%T=SSL%I=7%D=2/10%Time=65C7B0E2%P=x86_64-pc-linux
+SF:-gnu%r(GenericLines,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-T
+SF:ype:\x20text/plain;\x20charset=utf-8\r\nConnection:\x20close\r\n\r\n400
+SF:\x20Bad\x20Request")%r(GetRequest,8E,"HTTP/1\.0\x20200\x20OK\r\nContent
+SF:-Type:\x20text/html;\x20charset=utf-8\r\nDate:\x20Sat,\x2010\x20Feb\x20
+SF:2024\x2017:31:44\x20GMT\r\nContent-Length:\x2026\r\n\r\n<h1>Acme\x20aut
+SF:h\x20server</h1>\n")%r(HTTPOptions,8E,"HTTP/1\.0\x20200\x20OK\r\nConten
+SF:t-Type:\x20text/html;\x20charset=utf-8\r\nDate:\x20Sat,\x2010\x20Feb\x2
+SF:02024\x2017:31:46\x20GMT\r\nContent-Length:\x2026\r\n\r\n<h1>Acme\x20au
+SF:th\x20server</h1>\n")%r(RTSPRequest,67,"HTTP/1\.1\x20400\x20Bad\x20Requ
+SF:est\r\nContent-Type:\x20text/plain;\x20charset=utf-8\r\nConnection:\x20
+SF:close\r\n\r\n400\x20Bad\x20Request")%r(Help,67,"HTTP/1\.1\x20400\x20Bad
+SF:\x20Request\r\nContent-Type:\x20text/plain;\x20charset=utf-8\r\nConnect
+SF:ion:\x20close\r\n\r\n400\x20Bad\x20Request")%r(SSLSessionReq,67,"HTTP/1
+SF:\.1\x20400\x20Bad\x20Request\r\nContent-Type:\x20text/plain;\x20charset
+SF:=utf-8\r\nConnection:\x20close\r\n\r\n400\x20Bad\x20Request")%r(Termina
+SF:lServerCookie,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-Type:\x
+SF:20text/plain;\x20charset=utf-8\r\nConnection:\x20close\r\n\r\n400\x20Ba
+SF:d\x20Request")%r(TLSSessionReq,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r
+SF:\nContent-Type:\x20text/plain;\x20charset=utf-8\r\nConnection:\x20close
+SF:\r\n\r\n400\x20Bad\x20Request")%r(Kerberos,67,"HTTP/1\.1\x20400\x20Bad\
+SF:x20Request\r\nContent-Type:\x20text/plain;\x20charset=utf-8\r\nConnecti
+SF:on:\x20close\r\n\r\n400\x20Bad\x20Request")%r(FourOhFourRequest,A7,"HTT
+SF:P/1\.0\x20404\x20Not\x20Found\r\nContent-Type:\x20text/plain;\x20charse
+SF:t=utf-8\r\nX-Content-Type-Options:\x20nosniff\r\nDate:\x20Sat,\x2010\x2
+SF:0Feb\x202024\x2017:32:16\x20GMT\r\nContent-Length:\x2010\r\n\r\nNot\x20
+SF:found\n")%r(LPDString,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent
+SF:-Type:\x20text/plain;\x20charset=utf-8\r\nConnection:\x20close\r\n\r\n4
+SF:00\x20Bad\x20Request")%r(LDAPSearchReq,67,"HTTP/1\.1\x20400\x20Bad\x20R
+SF:equest\r\nContent-Type:\x20text/plain;\x20charset=utf-8\r\nConnection:\
+SF:x20close\r\n\r\n400\x20Bad\x20Request");
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Linux 5.X|4.X|2.6.X (97%)
+OS CPE: cpe:/o:linux:linux_kernel:5.0 cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:2.6.32
+Aggressive OS guesses: Linux 5.0 (97%), Linux 4.15 - 5.8 (90%), Linux 5.0 - 5.4 (90%), Linux 5.3 - 5.4 (89%), Linux 2.6.32 (89%), Linux 5.0 - 5.5 (88%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 443/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 10.10.11.221
+2   107.02 ms 10.10.11.223
+
+Nmap scan report for tickets.keeper.htb (10.10.11.227)
+Host is up (0.11s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE    SERVICE  VERSION
+22/tcp   open     ssh      OpenSSH 8.9p1 Ubuntu 3ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 35:39:d4:39:40:4b:1f:61:86:dd:7c:37:bb:4b:98:9e (ECDSA)
+|_  256 1a:e9:72:be:8b:b1:05:d5:ef:fe:dd:80:d8:ef:c0:66 (ED25519)
+80/tcp   open     http     nginx 1.18.0 (Ubuntu)
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+|_http-trane-info: Problem with XML parsing of /evox/about
+|_http-title: Login
+2702/tcp filtered sms-xfer
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/10%OT=22%CT=1%CU=38088%PV=Y%DS=2%DC=T%G=Y%TM=65C7
+OS:B1AA%P=x86_64-pc-linux-gnu)SEQ(SP=102%GCD=1%ISR=108%TI=Z%CI=Z%TS=4)SEQ(S
+OS:P=104%GCD=1%ISR=10A%TI=Z%CI=Z%II=I%TS=A)SEQ(SP=104%GCD=1%ISR=10B%TI=Z%CI
+OS:=Z%TS=A)SEQ(SP=104%GCD=1%ISR=10B%TI=Z%CI=Z%II=I%TS=A)SEQ(SP=105%GCD=1%IS
+OS:R=10A%TI=Z%CI=Z%II=I%TS=A)OPS(O1=M53CST11NW7%O2=M53CST11NW7%O3=M53CNNT11
+OS:NW7%O4=M53CST11NW7%O5=M53CST11NW7%O6=M53CST11)WIN(W1=FE88%W2=FE88%W3=FE8
+OS:8%W4=FE88%W5=FE88%W6=FE88)ECN(R=Y%DF=Y%T=40%W=FAF0%O=M53CNNSNW7%CC=Y%Q=)
+OS:T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=
+OS:0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T
+OS:6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+
+OS:%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK
+OS:=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 23/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 10.10.11.221
+2   116.09 ms tickets.keeper.htb (10.10.11.227)
+
+Nmap scan report for 10.10.11.230
+Host is up (0.11s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 43:56:bc:a7:f2:ec:46:dd:c1:0f:83:30:4c:2c:aa:a8 (ECDSA)
+|_  256 6f:7a:6c:3f:a6:8d:e2:75:95:d4:7b:71:ac:4f:7e:42 (ED25519)
+80/tcp open  http    nginx 1.18.0 (Ubuntu)
+|_http-title: Did not follow redirect to http://cozyhosting.htb
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/10%OT=22%CT=1%CU=36326%PV=Y%DS=2%DC=T%G=Y%TM=65C7
+OS:B1AA%P=x86_64-pc-linux-gnu)SEQ(SP=101%GCD=1%ISR=10D%TI=Z%CI=Z%TS=A)SEQ(S
+OS:P=FA%GCD=1%ISR=10E%TI=Z%CI=Z%II=I%TS=A)SEQ(SP=FB%GCD=1%ISR=10E%TI=Z%CI=Z
+OS:%TS=A)SEQ(SP=FB%GCD=1%ISR=10E%TI=Z%CI=Z%II=I%TS=A)SEQ(SP=FB%GCD=1%ISR=10
+OS:F%TI=Z%CI=Z%TS=4)OPS(O1=M53CST11NW7%O2=M53CST11NW7%O3=M53CNNT11NW7%O4=M5
+OS:3CST11NW7%O5=M53CST11NW7%O6=M53CST11)WIN(W1=FE88%W2=FE88%W3=FE88%W4=FE88
+OS:%W5=FE88%W6=FE88)ECN(R=Y%DF=Y%T=40%W=FAF0%O=M53CNNSNW7%CC=Y%Q=)T1(R=Y%DF
+OS:=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z
+OS:%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=
+OS:Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%
+OS:RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)
+OS:IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 23/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 10.10.11.221
+2   116.24 ms 10.10.11.230
+
+Nmap scan report for 10.10.11.231
+Host is up (0.11s latency).
+Not shown: 986 closed tcp ports (reset)
+PORT      STATE    SERVICE       VERSION
+53/tcp    open     domain        Simple DNS Plus
+88/tcp    open     kerberos-sec  Microsoft Windows Kerberos (server time: 2024-02-11 00:31:31Z)
+135/tcp   open     msrpc         Microsoft Windows RPC
+139/tcp   open     netbios-ssn   Microsoft Windows netbios-ssn
+389/tcp   open     ldap          Microsoft Windows Active Directory LDAP (Domain: rebound.htb0., Site: Default-First-Site-Name)
+|_ssl-date: 2024-02-11T00:34:51+00:00; +7h09m02s from scanner time.
+| ssl-cert: Subject: 
+| Subject Alternative Name: DNS:dc01.rebound.htb
+| Not valid before: 2023-08-25T22:48:10
+|_Not valid after:  2024-08-24T22:48:10
+445/tcp   open     microsoft-ds?
+464/tcp   open     kpasswd5?
+593/tcp   open     ncacn_http    Microsoft Windows RPC over HTTP 1.0
+636/tcp   open     ssl/ldap      Microsoft Windows Active Directory LDAP (Domain: rebound.htb0., Site: Default-First-Site-Name)
+|_ssl-date: 2024-02-11T00:34:51+00:00; +7h09m02s from scanner time.
+| ssl-cert: Subject: 
+| Subject Alternative Name: DNS:dc01.rebound.htb
+| Not valid before: 2023-08-25T22:48:10
+|_Not valid after:  2024-08-24T22:48:10
+1022/tcp  filtered exp2
+3268/tcp  open     ldap          Microsoft Windows Active Directory LDAP (Domain: rebound.htb0., Site: Default-First-Site-Name)
+| ssl-cert: Subject: 
+| Subject Alternative Name: DNS:dc01.rebound.htb
+| Not valid before: 2023-08-25T22:48:10
+|_Not valid after:  2024-08-24T22:48:10
+|_ssl-date: 2024-02-11T00:34:51+00:00; +7h09m02s from scanner time.
+3269/tcp  open     ssl/ldap      Microsoft Windows Active Directory LDAP (Domain: rebound.htb0., Site: Default-First-Site-Name)
+| ssl-cert: Subject: 
+| Subject Alternative Name: DNS:dc01.rebound.htb
+| Not valid before: 2023-08-25T22:48:10
+|_Not valid after:  2024-08-24T22:48:10
+|_ssl-date: 2024-02-11T00:34:51+00:00; +7h09m02s from scanner time.
+27355/tcp filtered unknown
+32768/tcp filtered filenet-tms
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/10%OT=53%CT=1%CU=40261%PV=Y%DS=2%DC=T%G=Y%TM=65C7
+OS:B1AA%P=x86_64-pc-linux-gnu)SEQ(SP=104%GCD=1%ISR=10A%TI=I%CI=I%TS=U)SEQ(S
+OS:P=104%GCD=1%ISR=10C%TI=I%CI=I%TS=U)SEQ(SP=104%GCD=1%ISR=10C%TI=I%CI=I%II
+OS:=I%SS=S%TS=U)SEQ(SP=105%GCD=1%ISR=10A%TI=I%CI=I%TS=U)OPS(O1=M53CNW8NNS%O
+OS:2=M53CNW8NNS%O3=M53CNW8%O4=M53CNW8NNS%O5=M53CNW8NNS%O6=M53CNNS)WIN(W1=FF
+OS:FF%W2=FFFF%W3=FFFF%W4=FFFF%W5=FFFF%W6=FF70)ECN(R=Y%DF=Y%T=80%W=FFFF%O=M5
+OS:3CNW8NNS%CC=Y%Q=)T1(R=Y%DF=Y%T=80%S=O%A=S+%F=AS%RD=0%Q=)T2(R=Y%DF=Y%T=80
+OS:%W=0%S=Z%A=S%F=AR%O=%RD=0%Q=)T3(R=Y%DF=Y%T=80%W=0%S=Z%A=O%F=AR%O=%RD=0%Q
+OS:=)T4(R=Y%DF=Y%T=80%W=0%S=A%A=O%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=80%W=0%S=Z%A
+OS:=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=80%W=0%S=A%A=O%F=R%O=%RD=0%Q=)T7(R=Y%D
+OS:F=Y%T=80%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=80%IPL=164%UN=0%RIPL
+OS:=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=80%CD=Z)
+
+Network Distance: 2 hops
+Service Info: Host: DC01; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-time: 
+|   date: 2024-02-11T00:34:18
+|_  start_date: N/A
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled and required
+|_clock-skew: mean: 7h09m01s, deviation: 0s, median: 7h09m01s
+
+TRACEROUTE (using port 23/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 10.10.11.221
+2   116.39 ms 10.10.11.231
+
+Nmap scan report for 10.10.11.232
+Host is up (0.11s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.4 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 89:d7:39:34:58:a0:ea:a1:db:c1:3d:14:ec:5d:5a:92 (ECDSA)
+|_  256 b4:da:8d:af:65:9c:bb:f0:71:d5:13:50:ed:d8:11:30 (ED25519)
+80/tcp   open  http    Apache httpd 2.4.52 ((Ubuntu))
+|_http-title: Did not follow redirect to http://clicker.htb/
+|_http-server-header: Apache/2.4.52 (Ubuntu)
+111/tcp  open  rpcbind 2-4 (RPC #100000)
+| rpcinfo: 
+|   program version    port/proto  service
+|   100000  2,3,4        111/tcp   rpcbind
+|   100000  2,3,4        111/udp   rpcbind
+|   100000  3,4          111/tcp6  rpcbind
+|   100000  3,4          111/udp6  rpcbind
+|   100003  3,4         2049/tcp   nfs
+|   100003  3,4         2049/tcp6  nfs
+|   100005  1,2,3      33833/tcp6  mountd
+|   100005  1,2,3      40993/udp6  mountd
+|   100005  1,2,3      45573/udp   mountd
+|   100005  1,2,3      48279/tcp   mountd
+|   100021  1,3,4      33534/udp6  nlockmgr
+|   100021  1,3,4      35627/tcp6  nlockmgr
+|   100021  1,3,4      41061/tcp   nlockmgr
+|   100021  1,3,4      46151/udp   nlockmgr
+|   100024  1          40663/tcp6  status
+|   100024  1          41037/tcp   status
+|   100024  1          49748/udp   status
+|   100024  1          56289/udp6  status
+|   100227  3           2049/tcp   nfs_acl
+|_  100227  3           2049/tcp6  nfs_acl
+2049/tcp open  nfs_acl 3 (RPC #100227)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/10%OT=22%CT=1%CU=30031%PV=Y%DS=2%DC=T%G=Y%TM=65C7
+OS:B1AA%P=x86_64-pc-linux-gnu)SEQ(SP=103%GCD=1%ISR=10E%TI=Z%CI=Z%TS=A)SEQ(S
+OS:P=103%GCD=1%ISR=10E%TI=Z%CI=Z%II=I%TS=A)SEQ(SP=105%GCD=1%ISR=10C%TI=Z%CI
+OS:=Z%TS=A)SEQ(SP=105%GCD=1%ISR=10D%TI=Z%CI=Z%TS=4)OPS(O1=M53CST11NW7%O2=M5
+OS:3CST11NW7%O3=M53CNNT11NW7%O4=M53CST11NW7%O5=M53CST11NW7%O6=M53CST11)WIN(
+OS:W1=FE88%W2=FE88%W3=FE88%W4=FE88%W5=FE88%W6=FE88)ECN(R=Y%DF=Y%T=40%W=FAF0
+OS:%O=M53CNNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R
+OS:=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%
+OS:A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%
+OS:DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIP
+OS:L=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 23/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 10.10.11.221
+2   116.48 ms 10.10.11.232
+
+Nmap scan report for 10.10.11.233
+Host is up (0.11s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.4 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 3e:ea:45:4b:c5:d1:6d:6f:e2:d4:d1:3b:0a:3d:a9:4f (ECDSA)
+|_  256 64:cc:75:de:4a:e6:a5:b4:73:eb:3f:1b:cf:b4:e3:94 (ED25519)
+80/tcp open  http    nginx 1.18.0 (Ubuntu)
+|_http-title: Did not follow redirect to http://analytical.htb/
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/10%OT=22%CT=1%CU=41528%PV=Y%DS=2%DC=T%G=Y%TM=65C7
+OS:B1AA%P=x86_64-pc-linux-gnu)SEQ(SP=102%GCD=1%ISR=103%TI=Z%CI=Z%II=I%TS=A)
+OS:SEQ(SP=103%GCD=1%ISR=103%TI=Z%CI=Z%TS=A)SEQ(SP=103%GCD=1%ISR=103%TI=Z%CI
+OS:=Z%II=I%TS=A)SEQ(SP=104%GCD=1%ISR=104%TI=Z%CI=Z%TS=4)SEQ(SP=F8%GCD=1%ISR
+OS:=FF%TI=Z%CI=Z%TS=A)OPS(O1=M53CST11NW7%O2=M53CST11NW7%O3=M53CNNT11NW7%O4=
+OS:M53CST11NW7%O5=M53CST11NW7%O6=M53CST11)WIN(W1=FE88%W2=FE88%W3=FE88%W4=FE
+OS:88%W5=FE88%W6=FE88)ECN(R=Y%DF=Y%T=40%W=FAF0%O=M53CNNSNW7%CC=Y%Q=)T1(R=Y%
+OS:DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A
+OS:=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%D
+OS:F=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O
+OS:=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=
+OS:G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 23/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 10.10.11.221
+2   116.55 ms 10.10.11.233
+
+Nmap scan report for 10.10.11.234
+Host is up (0.11s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Apache httpd 2.4.56 ((Win64) OpenSSL/1.1.1t PHP/8.1.17)
+|_http-server-header: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.1.17
+|_http-title: Visual - Revolutionizing Visual Studio Builds
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows 2019 (88%)
+Aggressive OS guesses: Microsoft Windows Server 2019 (88%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+1   ...
+2   108.05 ms 10.10.11.234
+
+Nmap scan report for 10.10.11.235
+Host is up (0.11s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE    SERVICE VERSION
+22/tcp   open     ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.9 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 27:5a:9f:db:91:c3:16:e5:7d:a6:0d:6d:cb:6b:bd:4a (RSA)
+|   256 9d:07:6b:c8:47:28:0d:f2:9f:81:f2:b8:c3:a6:78:53 (ECDSA)
+|_  256 1d:30:34:9f:79:73:69:bd:f6:67:f3:34:3c:1f:f9:4e (ED25519)
+80/tcp   open     http    nginx 1.18.0 (Ubuntu)
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+|_http-title: Did not follow redirect to http://drive.htb/
+3000/tcp filtered ppp
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/10%OT=22%CT=1%CU=38624%PV=Y%DS=2%DC=T%G=Y%TM=65C7
+OS:B1AA%P=x86_64-pc-linux-gnu)SEQ(SP=105%GCD=1%ISR=10B%TI=Z%CI=Z%TS=A)SEQ(S
+OS:P=105%GCD=1%ISR=10B%TI=Z%CI=Z%II=I%TS=A)SEQ(SP=106%GCD=1%ISR=10A%TI=Z%CI
+OS:=Z%TS=A)SEQ(SP=107%GCD=1%ISR=10A%TI=Z%CI=Z%TS=4)OPS(O1=M53CST11NW7%O2=M5
+OS:3CST11NW7%O3=M53CNNT11NW7%O4=M53CST11NW7%O5=M53CST11NW7%O6=M53CST11)WIN(
+OS:W1=FE88%W2=FE88%W3=FE88%W4=FE88%W5=FE88%W6=FE88)ECN(R=Y%DF=Y%T=40%W=FAF0
+OS:%O=M53CNNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R
+OS:=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%
+OS:A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%
+OS:DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIP
+OS:L=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 23/tcp)
+HOP RTT       ADDRESS
+1   ...
+2   116.90 ms 10.10.11.235
+
+Nmap scan report for 10.10.11.236
+Host is up (0.11s latency).
+Not shown: 987 filtered tcp ports (no-response)
+PORT     STATE SERVICE       VERSION
+53/tcp   open  domain        Simple DNS Plus
+80/tcp   open  http          Microsoft IIS httpd 10.0
+|_http-title: Manager
+|_http-server-header: Microsoft-IIS/10.0
+| http-methods: 
+|_  Potentially risky methods: TRACE
+88/tcp   open  kerberos-sec  Microsoft Windows Kerberos (server time: 2024-02-11 00:31:38Z)
+135/tcp  open  msrpc         Microsoft Windows RPC
+139/tcp  open  netbios-ssn   Microsoft Windows netbios-ssn
+389/tcp  open  ldap          Microsoft Windows Active Directory LDAP (Domain: manager.htb0., Site: Default-First-Site-Name)
+| ssl-cert: Subject: commonName=dc01.manager.htb
+| Subject Alternative Name: othername: 1.3.6.1.4.1.311.25.1::<unsupported>, DNS:dc01.manager.htb
+| Not valid before: 2023-07-30T13:51:28
+|_Not valid after:  2024-07-29T13:51:28
+|_ssl-date: 2024-02-11T00:34:50+00:00; +7h09m02s from scanner time.
+445/tcp  open  microsoft-ds?
+464/tcp  open  kpasswd5?
+593/tcp  open  ncacn_http    Microsoft Windows RPC over HTTP 1.0
+636/tcp  open  ssl/ldap      Microsoft Windows Active Directory LDAP (Domain: manager.htb0., Site: Default-First-Site-Name)
+| ssl-cert: Subject: commonName=dc01.manager.htb
+| Subject Alternative Name: othername: 1.3.6.1.4.1.311.25.1::<unsupported>, DNS:dc01.manager.htb
+| Not valid before: 2023-07-30T13:51:28
+|_Not valid after:  2024-07-29T13:51:28
+|_ssl-date: 2024-02-11T00:34:51+00:00; +7h09m02s from scanner time.
+1433/tcp open  ms-sql-s      Microsoft SQL Server 2019 15.00.2000.00; RTM
+|_ssl-date: 2024-02-11T00:34:50+00:00; +7h09m03s from scanner time.
+| ms-sql-info: 
+|   10.10.11.236:1433: 
+|     Version: 
+|       name: Microsoft SQL Server 2019 RTM
+|       number: 15.00.2000.00
+|       Product: Microsoft SQL Server 2019
+|       Service pack level: RTM
+|       Post-SP patches applied: false
+|_    TCP port: 1433
+| ssl-cert: Subject: commonName=SSL_Self_Signed_Fallback
+| Not valid before: 2024-02-09T14:51:54
+|_Not valid after:  2054-02-09T14:51:54
+| ms-sql-ntlm-info: 
+|   10.10.11.236:1433: 
+|     Target_Name: MANAGER
+|     NetBIOS_Domain_Name: MANAGER
+|     NetBIOS_Computer_Name: DC01
+|     DNS_Domain_Name: manager.htb
+|     DNS_Computer_Name: dc01.manager.htb
+|     DNS_Tree_Name: manager.htb
+|_    Product_Version: 10.0.17763
+3268/tcp open  ldap          Microsoft Windows Active Directory LDAP (Domain: manager.htb0., Site: Default-First-Site-Name)
+| ssl-cert: Subject: commonName=dc01.manager.htb
+| Subject Alternative Name: othername: 1.3.6.1.4.1.311.25.1::<unsupported>, DNS:dc01.manager.htb
+| Not valid before: 2023-07-30T13:51:28
+|_Not valid after:  2024-07-29T13:51:28
+|_ssl-date: 2024-02-11T00:34:50+00:00; +7h09m02s from scanner time.
+3269/tcp open  ssl/ldap      Microsoft Windows Active Directory LDAP (Domain: manager.htb0., Site: Default-First-Site-Name)
+|_ssl-date: 2024-02-11T00:34:50+00:00; +7h09m03s from scanner time.
+| ssl-cert: Subject: commonName=dc01.manager.htb
+| Subject Alternative Name: othername: 1.3.6.1.4.1.311.25.1::<unsupported>, DNS:dc01.manager.htb
+| Not valid before: 2023-07-30T13:51:28
+|_Not valid after:  2024-07-29T13:51:28
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows 2019 (88%)
+Aggressive OS guesses: Microsoft Windows Server 2019 (88%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+Service Info: Host: DC01; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-time: 
+|   date: 2024-02-11T00:34:21
+|_  start_date: N/A
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled and required
+|_clock-skew: mean: 7h09m02s, deviation: 0s, median: 7h09m01s
+
+TRACEROUTE (using port 139/tcp)
+HOP RTT       ADDRESS
+1   ...
+2   108.57 ms 10.10.11.236
+
+Nmap scan report for 10.10.11.238
+Host is up (0.11s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE VERSION
+80/tcp  open  http    Microsoft IIS httpd 10.0
+|_http-title: Did not follow redirect to https://meddigi.htb/
+|_http-server-header: Microsoft-IIS/10.0
+443/tcp open  https?
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+No OS matches for host
+Network Distance: 2 hops
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+TRACEROUTE (using port 443/tcp)
+HOP RTT       ADDRESS
+1   ...
+2   109.95 ms 10.10.11.238
+
+Nmap scan report for 10.10.11.239
+Host is up (0.11s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.4 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 96:07:1c:c6:77:3e:07:a0:cc:6f:24:19:74:4d:57:0b (ECDSA)
+|_  256 0b:a4:c0:cf:e2:3b:95:ae:f6:f5:df:7d:0c:88:d6:ce (ED25519)
+80/tcp   open  http    Apache httpd 2.4.52
+|_http-server-header: Apache/2.4.52 (Ubuntu)
+|_http-title: Did not follow redirect to http://codify.htb/
+3000/tcp open  http    Node.js Express framework
+|_http-title: Codify
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/10%OT=22%CT=1%CU=37911%PV=Y%DS=2%DC=T%G=Y%TM=65C7
+OS:B1AA%P=x86_64-pc-linux-gnu)SEQ(SP=104%GCD=1%ISR=10F%TI=Z%CI=Z%TS=C)SEQ(S
+OS:P=104%GCD=1%ISR=10F%TI=Z%CI=Z%II=I%TS=A)SEQ(SP=FE%GCD=1%ISR=111%TI=Z%CI=
+OS:Z%TS=4)OPS(O1=M53CST11NW7%O2=M53CST11NW7%O3=M53CNNT11NW7%O4=M53CST11NW7%
+OS:O5=M53CST11NW7%O6=M53CST11)WIN(W1=FE88%W2=FE88%W3=FE88%W4=FE88%W5=FE88%W
+OS:6=FE88)ECN(R=Y%DF=Y%T=40%W=FAF0%O=M53CNNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=
+OS:O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD
+OS:=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0
+OS:%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1
+OS:(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI
+OS:=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: Host: codify.htb; OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 23/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 10.10.11.221
+2   107.93 ms 10.10.11.239
+
+Nmap scan report for 10.10.11.240
+Host is up (0.11s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE  VERSION
+80/tcp  open  http     Microsoft IIS httpd 10.0
+|_http-server-header: Microsoft-IIS/10.0
+|_http-title: Did not follow redirect to https://app.napper.htb
+443/tcp open  ssl/http Microsoft IIS httpd 10.0
+| tls-alpn: 
+|_  http/1.1
+| http-methods: 
+|_  Potentially risky methods: TRACE
+|_http-generator: Hugo 0.112.3
+|_http-server-header: Microsoft-IIS/10.0
+| ssl-cert: Subject: commonName=app.napper.htb/organizationName=MLopsHub/stateOrProvinceName=California/countryName=US
+| Subject Alternative Name: DNS:app.napper.htb
+| Not valid before: 2023-06-07T14:58:55
+|_Not valid after:  2033-06-04T14:58:55
+|_ssl-date: 2024-02-10T17:34:49+00:00; +9m01s from scanner time.
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows XP (85%)
+OS CPE: cpe:/o:microsoft:windows_xp::sp3
+Aggressive OS guesses: Microsoft Windows XP SP3 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+|_clock-skew: 9m00s
+
+TRACEROUTE (using port 443/tcp)
+HOP RTT       ADDRESS
+1   ...
+2   108.59 ms 10.10.11.240
+
+Nmap scan report for 10.10.11.241
+Host is up (0.11s latency).
+Not shown: 980 filtered tcp ports (no-response)
+PORT     STATE SERVICE           VERSION
+22/tcp   open  ssh               OpenSSH 9.0p1 Ubuntu 1ubuntu8.5 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 e1:4b:4b:3a:6d:18:66:69:39:f7:aa:74:b3:16:0a:aa (ECDSA)
+|_  256 96:c1:dc:d8:97:20:95:e7:01:5f:20:a2:43:61:cb:ca (ED25519)
+53/tcp   open  domain            Simple DNS Plus
+88/tcp   open  kerberos-sec      Microsoft Windows Kerberos (server time: 2024-02-11 00:31:10Z)
+135/tcp  open  msrpc             Microsoft Windows RPC
+139/tcp  open  netbios-ssn       Microsoft Windows netbios-ssn
+389/tcp  open  ldap              Microsoft Windows Active Directory LDAP (Domain: hospital.htb0., Site: Default-First-Site-Name)
+| ssl-cert: Subject: commonName=DC
+| Subject Alternative Name: DNS:DC, DNS:DC.hospital.htb
+| Not valid before: 2023-09-06T10:49:03
+|_Not valid after:  2028-09-06T10:49:03
+443/tcp  open  ssl/http          Apache httpd 2.4.56 ((Win64) OpenSSL/1.1.1t PHP/8.0.28)
+| ssl-cert: Subject: commonName=localhost
+| Not valid before: 2009-11-10T23:48:47
+|_Not valid after:  2019-11-08T23:48:47
+|_ssl-date: TLS randomness does not represent time
+| tls-alpn: 
+|_  http/1.1
+|_http-server-header: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.0.28
+|_http-title: Hospital Webmail :: Welcome to Hospital Webmail
+445/tcp  open  microsoft-ds?
+464/tcp  open  kpasswd5?
+593/tcp  open  ncacn_http        Microsoft Windows RPC over HTTP 1.0
+636/tcp  open  ldapssl?
+| ssl-cert: Subject: commonName=DC
+| Subject Alternative Name: DNS:DC, DNS:DC.hospital.htb
+| Not valid before: 2023-09-06T10:49:03
+|_Not valid after:  2028-09-06T10:49:03
+1801/tcp open  msmq?
+2103/tcp open  msrpc             Microsoft Windows RPC
+2105/tcp open  msrpc             Microsoft Windows RPC
+2107/tcp open  msrpc             Microsoft Windows RPC
+2179/tcp open  vmrdp?
+3268/tcp open  ldap              Microsoft Windows Active Directory LDAP (Domain: hospital.htb0., Site: Default-First-Site-Name)
+| ssl-cert: Subject: commonName=DC
+| Subject Alternative Name: DNS:DC, DNS:DC.hospital.htb
+| Not valid before: 2023-09-06T10:49:03
+|_Not valid after:  2028-09-06T10:49:03
+3269/tcp open  globalcatLDAPssl?
+| ssl-cert: Subject: commonName=DC
+| Subject Alternative Name: DNS:DC, DNS:DC.hospital.htb
+| Not valid before: 2023-09-06T10:49:03
+|_Not valid after:  2028-09-06T10:49:03
+3389/tcp open  ms-wbt-server     Microsoft Terminal Services
+| rdp-ntlm-info: 
+|   Target_Name: HOSPITAL
+|   NetBIOS_Domain_Name: HOSPITAL
+|   NetBIOS_Computer_Name: DC
+|   DNS_Domain_Name: hospital.htb
+|   DNS_Computer_Name: DC.hospital.htb
+|   DNS_Tree_Name: hospital.htb
+|   Product_Version: 10.0.17763
+|_  System_Time: 2024-02-11T00:33:33+00:00
+| ssl-cert: Subject: commonName=DC.hospital.htb
+| Not valid before: 2024-02-04T05:01:40
+|_Not valid after:  2024-08-05T05:01:40
+8080/tcp open  http              Apache httpd 2.4.55 ((Ubuntu))
+|_http-open-proxy: Proxy might be redirecting requests
+| http-cookie-flags: 
+|   /: 
+|     PHPSESSID: 
+|_      httponly flag not set
+|_http-server-header: Apache/2.4.55 (Ubuntu)
+| http-title: Login
+|_Requested resource was login.php
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Linux 5.X (87%)
+OS CPE: cpe:/o:linux:linux_kernel:5.0
+Aggressive OS guesses: Linux 5.0 (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+Service Info: Host: DC; OSs: Linux, Windows; CPE: cpe:/o:linux:linux_kernel, cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled and required
+| smb2-time: 
+|   date: 2024-02-11T00:33:53
+|_  start_date: N/A
+|_clock-skew: mean: 7h08m26s, deviation: 0s, median: 7h08m26s
+
+TRACEROUTE (using port 3389/tcp)
+HOP RTT       ADDRESS
+1   ...
+2   108.69 ms 10.10.11.241
+
+Nmap scan report for 10.10.11.242
+Host is up (0.11s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.9 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 48:ad:d5:b8:3a:9f:bc:be:f7:e8:20:1e:f6:bf:de:ae (RSA)
+|   256 b7:89:6c:0b:20:ed:49:b2:c1:86:7c:29:92:74:1c:1f (ECDSA)
+|_  256 18:cd:9d:08:a6:21:a8:b8:b6:f7:9f:8d:40:51:54:fb (ED25519)
+80/tcp open  http    nginx 1.18.0 (Ubuntu)
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+|_http-title: Did not follow redirect to http://devvortex.htb/
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/10%OT=22%CT=1%CU=41798%PV=Y%DS=2%DC=T%G=Y%TM=65C7
+OS:B1AA%P=x86_64-pc-linux-gnu)SEQ(SP=F7%GCD=1%ISR=10C%TI=Z%CI=Z%TS=4)SEQ(SP
+OS:=FD%GCD=1%ISR=10B%TI=Z%CI=Z%TS=A)SEQ(SP=FD%GCD=1%ISR=10B%TI=Z%CI=Z%II=I%
+OS:TS=A)SEQ(SP=FD%GCD=4%ISR=10B%TI=Z%CI=Z%II=I%TS=A)OPS(O1=M53CST11NW7%O2=M
+OS:53CST11NW7%O3=M53CNNT11NW7%O4=M53CST11NW7%O5=M53CST11NW7%O6=M53CST11)WIN
+OS:(W1=FE88%W2=FE88%W3=FE88%W4=FE88%W5=FE88%W6=FE88)ECN(R=Y%DF=Y%T=40%W=FAF
+OS:0%O=M53CNNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(
+OS:R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z
+OS:%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y
+OS:%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RI
+OS:PL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 23/tcp)
+HOP RTT       ADDRESS
+1   ...
+2   109.26 ms 10.10.11.242
+
+Nmap scan report for 10.10.11.243
+Host is up (0.11s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.4 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 3e:ea:45:4b:c5:d1:6d:6f:e2:d4:d1:3b:0a:3d:a9:4f (ECDSA)
+|_  256 64:cc:75:de:4a:e6:a5:b4:73:eb:3f:1b:cf:b4:e3:94 (ED25519)
+80/tcp open  http    nginx 1.18.0 (Ubuntu)
+| http-auth: 
+| HTTP/1.1 401 Unauthorized\x0D
+|_  basic realm=ActiveMQRealm
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/10%OT=22%CT=1%CU=37902%PV=Y%DS=2%DC=T%G=Y%TM=65C7
+OS:B1AA%P=x86_64-pc-linux-gnu)SEQ(SP=106%GCD=1%ISR=10C%TI=Z%CI=Z%TS=A)SEQ(S
+OS:P=106%GCD=1%ISR=10C%TI=Z%CI=Z%II=I%TS=A)SEQ(SP=107%GCD=1%ISR=10A%TI=Z%CI
+OS:=Z%TS=4)SEQ(SP=107%GCD=1%ISR=10B%TI=Z%CI=Z%II=I%TS=A)OPS(O1=M53CST11NW7%
+OS:O2=M53CST11NW7%O3=M53CNNT11NW7%O4=M53CST11NW7%O5=M53CST11NW7%O6=M53CST11
+OS:)WIN(W1=FE88%W2=FE88%W3=FE88%W4=FE88%W5=FE88%W6=FE88)ECN(R=Y%DF=Y%T=40%W
+OS:=FAF0%O=M53CNNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N
+OS:)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0
+OS:%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7
+OS:(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=
+OS:0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 23/tcp)
+HOP RTT       ADDRESS
+1   ...
+2   109.32 ms 10.10.11.243
+
+Nmap scan report for 10.10.11.244
+Host is up (0.12s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.4 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 6f:f2:b4:ed:1a:91:8d:6e:c9:10:51:71:d5:7c:49:bb (ECDSA)
+|_  256 df:dd:bc:dc:57:0d:98:af:0f:88:2f:73:33:48:62:e8 (ED25519)
+80/tcp   open  http    Apache httpd 2.4.52
+|_http-title: Apache2 Ubuntu Default Page: It works
+|_http-server-header: Apache/2.4.52 (Ubuntu)
+3000/tcp open  http    Node.js Express framework
+|_http-title: Site doesn't have a title (application/json; charset=utf-8).
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/10%OT=22%CT=1%CU=42962%PV=Y%DS=2%DC=T%G=Y%TM=65C7
+OS:B1AA%P=x86_64-pc-linux-gnu)SEQ(SP=103%GCD=1%ISR=10B%TI=Z%CI=Z%II=I%TS=A)
+OS:SEQ(SP=104%GCD=1%ISR=10C%TI=Z%CI=Z%TS=A)SEQ(SP=104%GCD=1%ISR=10C%TI=Z%CI
+OS:=Z%II=I%TS=A)SEQ(SP=105%GCD=1%ISR=10B%TI=Z%CI=Z%TS=4)OPS(O1=M53CST11NW7%
+OS:O2=M53CST11NW7%O3=M53CNNT11NW7%O4=M53CST11NW7%O5=M53CST11NW7%O6=M53CST11
+OS:)WIN(W1=FE88%W2=FE88%W3=FE88%W4=FE88%W5=FE88%W6=FE88)ECN(R=Y%DF=Y%T=40%W
+OS:=FAF0%O=M53CNNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N
+OS:)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0
+OS:%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7
+OS:(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=
+OS:0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: Host: localhost; OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 23/tcp)
+HOP RTT       ADDRESS
+1   ...
+2   109.65 ms 10.10.11.244
+
+Nmap scan report for 10.10.11.245
+Host is up (0.11s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.4 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 96:07:1c:c6:77:3e:07:a0:cc:6f:24:19:74:4d:57:0b (ECDSA)
+|_  256 0b:a4:c0:cf:e2:3b:95:ae:f6:f5:df:7d:0c:88:d6:ce (ED25519)
+80/tcp open  http    nginx 1.18.0 (Ubuntu)
+|_http-title: Did not follow redirect to http://surveillance.htb/
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/10%OT=22%CT=1%CU=42987%PV=Y%DS=2%DC=T%G=Y%TM=65C7
+OS:B1AA%P=x86_64-pc-linux-gnu)SEQ(SP=103%GCD=1%ISR=10D%TI=Z%CI=Z%II=I%TS=A)
+OS:SEQ(SP=103%GCD=1%ISR=10E%TI=Z%CI=Z%TS=A)SEQ(SP=103%GCD=1%ISR=10E%TI=Z%CI
+OS:=Z%II=I%TS=A)SEQ(SP=104%GCD=1%ISR=10D%TI=Z%CI=Z%TS=4)OPS(O1=M53CST11NW7%
+OS:O2=M53CST11NW7%O3=M53CNNT11NW7%O4=M53CST11NW7%O5=M53CST11NW7%O6=M53CST11
+OS:)WIN(W1=FE88%W2=FE88%W3=FE88%W4=FE88%W5=FE88%W6=FE88)ECN(R=Y%DF=Y%T=40%W
+OS:=FAF0%O=M53CNNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N
+OS:)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0
+OS:%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7
+OS:(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=
+OS:0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 23/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 10.10.11.221
+2   109.71 ms 10.10.11.245
+
+Nmap scan report for 10.10.11.246
+Host is up (0.11s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    OpenResty web app server 1.21.4.3
+|_http-title: Did not follow redirect to http://corporate.htb
+|_http-server-header: openresty/1.21.4.3
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|specialized
+Running (JUST GUESSING): Linux 5.X|4.X|2.6.X (94%), Crestron 2-Series (85%)
+OS CPE: cpe:/o:linux:linux_kernel:5.0 cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:2.6.32 cpe:/o:crestron:2_series
+Aggressive OS guesses: Linux 5.0 (94%), Linux 4.15 - 5.8 (89%), Linux 5.0 - 5.4 (89%), Linux 5.3 - 5.4 (87%), Linux 2.6.32 (87%), Linux 5.0 - 5.5 (86%), Crestron XPanel control system (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+1   ...
+2   113.26 ms 10.10.11.246
+
+Nmap scan report for 10.10.11.248
+Host is up (0.11s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT    STATE SERVICE  VERSION
+22/tcp  open  ssh      OpenSSH 8.4p1 Debian 5+deb11u3 (protocol 2.0)
+| ssh-hostkey: 
+|   3072 61:e2:e7:b4:1b:5d:46:dc:3b:2f:91:38:e6:6d:c5:ff (RSA)
+|   256 29:73:c5:a5:8d:aa:3f:60:a9:4a:a3:e5:9f:67:5c:93 (ECDSA)
+|_  256 6d:7a:f9:eb:8e:45:c2:02:6a:d5:8d:4d:b3:a3:37:6f (ED25519)
+80/tcp  open  http     Apache httpd 2.4.56
+|_http-title: Did not follow redirect to https://nagios.monitored.htb/
+|_http-server-header: Apache/2.4.56 (Debian)
+389/tcp open  ldap     OpenLDAP 2.2.X - 2.3.X
+443/tcp open  ssl/http Apache httpd 2.4.56 ((Debian))
+|_ssl-date: TLS randomness does not represent time
+|_http-title: Nagios XI
+| tls-alpn: 
+|_  http/1.1
+| ssl-cert: Subject: commonName=nagios.monitored.htb/organizationName=Monitored/stateOrProvinceName=Dorset/countryName=UK
+| Not valid before: 2023-11-11T21:46:55
+|_Not valid after:  2297-08-25T21:46:55
+|_http-server-header: Apache/2.4.56 (Debian)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/10%OT=22%CT=1%CU=40153%PV=Y%DS=2%DC=T%G=Y%TM=65C7
+OS:B1AA%P=x86_64-pc-linux-gnu)SEQ(SP=100%GCD=1%ISR=108%TI=Z%CI=Z%TS=4)SEQ(S
+OS:P=FF%GCD=1%ISR=107%TI=Z%CI=Z%TS=A)SEQ(SP=FF%GCD=1%ISR=107%TI=Z%CI=Z%II=I
+OS:%TS=A)SEQ(SP=FF%GCD=2%ISR=107%TI=Z%CI=Z%TS=A)OPS(O1=M53CST11NW7%O2=M53CS
+OS:T11NW7%O3=M53CNNT11NW7%O4=M53CST11NW7%O5=M53CST11NW7%O6=M53CST11)WIN(W1=
+OS:FE88%W2=FE88%W3=FE88%W4=FE88%W5=FE88%W6=FE88)ECN(R=Y%DF=Y%T=40%W=FAF0%O=
+OS:M53CNNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)
+OS:T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S
+OS:+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=
+OS:Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G
+OS:%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: Host: nagios.monitored.htb; OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 3306/tcp)
+HOP RTT       ADDRESS
+1   ...
+2   108.94 ms 10.10.11.248
+
+Nmap scan report for 10.10.11.250
+Host is up (0.12s latency).
+Not shown: 987 closed tcp ports (reset)
+PORT     STATE SERVICE       VERSION
+53/tcp   open  domain        Simple DNS Plus
+80/tcp   open  http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-title: Not Found
+|_http-server-header: Microsoft-HTTPAPI/2.0
+88/tcp   open  kerberos-sec  Microsoft Windows Kerberos (server time: 2024-02-10 17:32:16Z)
+135/tcp  open  msrpc         Microsoft Windows RPC
+139/tcp  open  netbios-ssn   Microsoft Windows netbios-ssn
+389/tcp  open  ldap          Microsoft Windows Active Directory LDAP (Domain: analysis.htb0., Site: Default-First-Site-Name)
+445/tcp  open  microsoft-ds?
+464/tcp  open  kpasswd5?
+593/tcp  open  ncacn_http    Microsoft Windows RPC over HTTP 1.0
+636/tcp  open  tcpwrapped
+3268/tcp open  ldap          Microsoft Windows Active Directory LDAP (Domain: analysis.htb0., Site: Default-First-Site-Name)
+3269/tcp open  tcpwrapped
+3306/tcp open  mysql         MySQL (unauthorized)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/10%OT=53%CT=1%CU=36933%PV=Y%DS=2%DC=T%G=Y%TM=65C7
+OS:B1AA%P=x86_64-pc-linux-gnu)SEQ(SP=105%GCD=1%ISR=106%TI=I%CI=I%TS=U)SEQ(S
+OS:P=106%GCD=1%ISR=106%TI=I%CI=I%TS=U)SEQ(SP=106%GCD=1%ISR=106%TI=I%CI=I%II
+OS:=I%SS=S%TS=U)SEQ(SP=107%GCD=1%ISR=106%TI=I%CI=I%TS=U)OPS(O1=M53CNW8NNS%O
+OS:2=M53CNW8NNS%O3=M53CNW8%O4=M53CNW8NNS%O5=M53CNW8NNS%O6=M53CNNS)WIN(W1=FF
+OS:FF%W2=FFFF%W3=FFFF%W4=FFFF%W5=FFFF%W6=FF70)ECN(R=Y%DF=Y%T=80%W=FFFF%O=M5
+OS:3CNW8NNS%CC=Y%Q=)T1(R=Y%DF=Y%T=80%S=O%A=S+%F=AS%RD=0%Q=)T2(R=Y%DF=Y%T=80
+OS:%W=0%S=Z%A=S%F=AR%O=%RD=0%Q=)T3(R=Y%DF=Y%T=80%W=0%S=Z%A=O%F=AR%O=%RD=0%Q
+OS:=)T4(R=Y%DF=Y%T=80%W=0%S=A%A=O%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=80%W=0%S=Z%A
+OS:=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=80%W=0%S=A%A=O%F=R%O=%RD=0%Q=)T7(R=Y%D
+OS:F=Y%T=80%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=80%IPL=164%UN=0%RIPL
+OS:=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=80%CD=Z)
+
+Network Distance: 2 hops
+Service Info: Host: DC-ANALYSIS; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-time: 
+|   date: 2024-02-10T17:34:41
+|_  start_date: N/A
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled and required
+|_clock-skew: 9m11s
+
+TRACEROUTE (using port 23/tcp)
+HOP RTT       ADDRESS
+1   ...
+2   106.39 ms 10.10.11.250
+
+Nmap scan report for 10.10.11.251
+Host is up (0.12s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Microsoft IIS httpd 10.0
+| http-methods: 
+|_  Potentially risky methods: TRACE
+|_http-title: pov.htb
+|_http-server-header: Microsoft-IIS/10.0
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows 2019 (86%)
+Aggressive OS guesses: Microsoft Windows Server 2019 (86%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+1   ...
+2   113.39 ms 10.10.11.251
+
+Nmap scan report for 10.10.11.252
+Host is up (0.12s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE SERVICE  VERSION
+22/tcp  open  ssh      OpenSSH 8.4p1 Debian 5+deb11u3 (protocol 2.0)
+| ssh-hostkey: 
+|   3072 3e:21:d5:dc:2e:61:eb:8f:a6:3b:24:2a:b7:1c:05:d3 (RSA)
+|   256 39:11:42:3f:0c:25:00:08:d7:2f:1b:51:e0:43:9d:85 (ECDSA)
+|_  256 b0:6f:a0:0a:9e:df:b1:7a:49:78:86:b2:35:40:ec:95 (ED25519)
+80/tcp  open  http     nginx 1.18.0
+|_http-server-header: nginx/1.18.0
+|_http-title: Did not follow redirect to https://bizness.htb/
+443/tcp open  ssl/http nginx 1.18.0
+|_ssl-date: TLS randomness does not represent time
+|_http-server-header: nginx/1.18.0
+| tls-nextprotoneg: 
+|_  http/1.1
+|_http-title: Did not follow redirect to https://bizness.htb/
+| tls-alpn: 
+|_  http/1.1
+| ssl-cert: Subject: organizationName=Internet Widgits Pty Ltd/stateOrProvinceName=Some-State/countryName=UK
+| Not valid before: 2023-12-14T20:03:40
+|_Not valid after:  2328-11-10T20:03:40
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/10%OT=22%CT=1%CU=33824%PV=Y%DS=2%DC=T%G=Y%TM=65C7
+OS:B1AA%P=x86_64-pc-linux-gnu)SEQ(SP=103%GCD=1%ISR=10D%TI=Z%CI=Z%TS=A)SEQ(S
+OS:P=103%GCD=1%ISR=10D%TI=Z%CI=Z%II=I%TS=A)SEQ(SP=104%GCD=1%ISR=10D%TI=Z%CI
+OS:=Z%TS=4)OPS(O1=M53CST11NW7%O2=M53CST11NW7%O3=M53CNNT11NW7%O4=M53CST11NW7
+OS:%O5=M53CST11NW7%O6=M53CST11)WIN(W1=FE88%W2=FE88%W3=FE88%W4=FE88%W5=FE88%
+OS:W6=FE88)ECN(R=Y%DF=Y%T=40%W=FAF0%O=M53CNNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S
+OS:=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%R
+OS:D=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=
+OS:0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U
+OS:1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DF
+OS:I=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 23/tcp)
+HOP RTT       ADDRESS
+1   ...
+2   106.73 ms 10.10.11.252
+
+Nmap scan report for 10.10.11.254
+Host is up (0.12s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.6 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 65:70:f7:12:47:07:3a:88:8e:27:e9:cb:44:5d:10:fb (ECDSA)
+|_  256 74:48:33:07:b7:88:9d:32:0e:3b:ec:16:aa:b4:c8:fe (ED25519)
+80/tcp open  http    nginx 1.18.0 (Ubuntu)
+|_http-title: Skyfall - Introducing Sky Storage!
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/10%OT=22%CT=1%CU=40543%PV=Y%DS=2%DC=T%G=Y%TM=65C7
+OS:B1AA%P=x86_64-pc-linux-gnu)SEQ(SP=106%GCD=1%ISR=10A%TI=Z%CI=Z%TS=4)SEQ(S
+OS:P=106%GCD=1%ISR=10A%TI=Z%CI=Z%TS=A)SEQ(SP=107%GCD=1%ISR=10A%TI=Z%CI=Z%TS
+OS:=A)SEQ(SP=107%GCD=1%ISR=10B%TI=Z%CI=Z%TS=A)SEQ(SP=107%GCD=1%ISR=10B%TI=Z
+OS:%CI=Z%II=I%TS=A)OPS(O1=M53CST11NW7%O2=M53CST11NW7%O3=M53CNNT11NW7%O4=M53
+OS:CST11NW7%O5=M53CST11NW7%O6=M53CST11)WIN(W1=FE88%W2=FE88%W3=FE88%W4=FE88%
+OS:W5=FE88%W6=FE88)ECN(R=Y%DF=Y%T=40%W=FAF0%O=M53CNNSNW7%CC=Y%Q=)T1(R=Y%DF=
+OS:Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%
+OS:F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y
+OS:%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%R
+OS:D=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)I
+OS:E(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 23/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 10.10.11.221
+2   106.35 ms 10.10.11.254
+
+Post-scan script results:
+| clock-skew: 
+|   7h09m01s: 
+|     10.10.11.231
+|_    10.10.11.236
+| ssh-hostkey: Possible duplicate hosts
+| Key 256 0b:a4:c0:cf:e2:3b:95:ae:f6:f5:df:7d:0c:88:d6:ce (ED25519) used by:
+|   10.10.11.239
+|   10.10.11.245
+| Key 256 96:07:1c:c6:77:3e:07:a0:cc:6f:24:19:74:4d:57:0b (ECDSA) used by:
+|   10.10.11.239
+|   10.10.11.245
+| Key 256 3e:ea:45:4b:c5:d1:6d:6f:e2:d4:d1:3b:0a:3d:a9:4f (ECDSA) used by:
+|   10.10.11.221
+|   10.10.11.233
+|   10.10.11.243
+| Key 256 64:cc:75:de:4a:e6:a5:b4:73:eb:3f:1b:cf:b4:e3:94 (ED25519) used by:
+|   10.10.11.221
+|   10.10.11.233
+|_  10.10.11.243
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 24 IP addresses (24 hosts up) scanned in 398.42 seconds

@@ -1,0 +1,6 @@
+Rutas de archivos
+
+
+ /var/www/mutillidae/index.php
+ /var/www/mutillidae/captured-data.php
+ /var/www/mutillidae/captured-data.txt

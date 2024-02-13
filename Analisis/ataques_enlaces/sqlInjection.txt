@@ -1,0 +1,9 @@
+
+/etc/my.cnf -> ruta analizada.
+
+1 	[mysqld] skip-bdb skip-grant-tables user=root skip-innodb skip-isam datadir=/home 
+
+
+#/home/mysql/mysql/mysql.user
+
+#/usr/lib/mysql/

